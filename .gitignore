@@ -1,0 +1,7 @@
+tracking/
+.venv/
+__pycache__/
+*.pyc
+desktop.ini
+evidence/*.json
+evidence/*.log
